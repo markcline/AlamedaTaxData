@@ -1,5 +1,5 @@
 # AlamedaTaxData
-Test Project to visualize Alameda County Tax Data
+Test Project to visualize Alameda County Tax Data - The intention is to show the (hypothesized) relative disparity in taxes paid for similar properties due to Prop 13.
 
 Front End:
 * TBD (Angular or Marionette/Backbone most likely)
